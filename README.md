@@ -19,7 +19,7 @@ Programa exclusivo , feito por Rafael Venancio para Barracão Móveis. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Barracão Móveis Links" src="./.github/barracaomoveis.png" width="100%">
+  <img alt="projeto Barracão Móveis Links" src="./assets/barracaomoveis.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
