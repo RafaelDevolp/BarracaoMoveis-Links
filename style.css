@@ -91,11 +91,11 @@ body * {
 
  .light #switch button {
   animation: slide-in .2s forwards;
- }
+ }  
 
-#switch button:houver {
+ #switch button:hover {
   outline: 8px solid var(--highlight-color)
-}
+ }
 
  #switch span {
   display: block;
@@ -180,11 +180,12 @@ footer {
     --bg-url: url(./assets/assets/bg-desktop.jpg);
   }
 
-    .light {
+  .light {
     --bg-url: url(./assets/assets/bg-desktop-light.jpg);
   }
+}
 
-  /* animation */
+/* animation */
 @keyframes slide-in {
   from {
     left: 0;
