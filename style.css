@@ -180,6 +180,10 @@ footer {
     --bg-url: url(./assets/assets/bg-desktop.jpg);
   }
 
+    .light {
+    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+  }
+
   /* animation */
 @keyframes slide-in {
   from {
@@ -196,10 +200,5 @@ footer {
   }
   to {
     left: 0;
-  }
-}
-
-  .light {
-    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
   }
 }
